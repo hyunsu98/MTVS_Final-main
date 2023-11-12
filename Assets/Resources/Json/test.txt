@@ -1,0 +1,32 @@
+{
+    "sprites": [
+        {
+            "roomName": "REmember",
+            "fileName": "AlphaRoom"
+        },
+        {
+            "roomName": "Zeus",
+            "fileName": "zeus"
+        },
+        {
+            "roomName": "Sheep",
+            "fileName": "sheep"
+        },
+        {
+            "roomName": "솔따시",
+            "fileName": "KakaoTalk_20221019_163840738"
+        },
+        {
+            "roomName": "King Kwang-seok",
+            "fileName": "Kim4"
+        },
+        {
+            "roomName": "WC_2002",
+            "fileName": "2002"
+        },
+        {
+            "roomName": "으아아아",
+            "fileName": "KakaoTalk_20221020_091308207"
+        }
+    ]
+}

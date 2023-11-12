@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LHS/01_Scenes/ConnectionScene_LHS.unity
+    guid: 14e00483f501ebc4cbb46216af1d83ba
+  - enabled: 1
+    path: Assets/LHS/01_Scenes/JoinScene_LHS.unity
+    guid: 4ad42ccab929f124ba2e61430b89330b
+  - enabled: 1
+    path: Assets/LHS/01_Scenes/LobbyScene_LHS.unity
+    guid: e90b6085efe00aa4397d567cbce33392
+  - enabled: 1
+    path: Assets/CSU/01_Scenes/LobbyScene.unity
+    guid: 73c95ea128dee99409cf45dc94cf1807
+  - enabled: 1
+    path: Assets/LHS/01_Scenes/CharacterScene_LHS.unity
+    guid: 33e5e2ceed9aaca4b8bae2af9e881452
+  - enabled: 1
+    path: Assets/CSU/01_Scenes/KKSRoomScene.unity
+    guid: 8fac39e933fdfbd43b9c1a406c73da64
+  - enabled: 1
+    path: Assets/LHS/01_Scenes/REMainScene_LHS.unity
+    guid: d3586e92eb67a834f97c4f9048802d1d
+  - enabled: 1
+    path: Assets/LHS/01_Scenes/MainScene_LHS.unity
+    guid: 234977d5afa10a94ea4d2d05aa47d77f
+  - enabled: 1
+    path: Assets/CSU/01_Scenes/RoomBaseScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
